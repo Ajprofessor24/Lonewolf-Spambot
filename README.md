@@ -18,7 +18,7 @@ A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/H
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLone-Wolf250%2FLonewolf-Spambot&template=https%3A%2F%2Fgithub.com%2FLone-Wolf250%2FLonewolf-Spambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLone-Wolf250%2FLonewolf-Spambot&template=https%3A%2F%2Fgithub.com%2FAjprofessor24250%2FLonewolf-Spambot)
 
 ### String Generator
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Lone-Wolf250/Lonewolf-spambot#main.py)
